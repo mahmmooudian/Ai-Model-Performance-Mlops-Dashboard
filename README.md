@@ -100,3 +100,10 @@ AI-Model-Performance-Dashboard/
 - Row-Level Security (RLS)
 - Executive mobile dashboard optimization
 - Scheduled refresh pipelines
+## ▶️ Getting Started
+
+1. Clone this repository.
+2. Open `AI_Model_Performance_Dashboard.pbix` using Microsoft Power BI Desktop.
+3. If required, reconnect the dataset source.
+4. Refresh the data model.
+5. Explore the interactive dashboard.
