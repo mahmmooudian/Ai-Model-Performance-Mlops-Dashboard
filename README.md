@@ -61,3 +61,22 @@ AI-Model-Performance-Dashboard/
 ### Operation Alert
 
 ![Operation Alert](Images/operation-alert.jpg)
+## 📊 Dashboard Pages
+
+### Executive Overview
+- High-level KPIs
+- Overall AI model health
+- Prediction trends
+- Executive summary
+
+### Model Performance
+- Accuracy monitoring
+- Precision and recall analysis
+- Confidence distribution
+- Historical performance trends
+
+### Operations & Alerts
+- Operational incidents
+- Model drift monitoring
+- Active alerts
+- System status
