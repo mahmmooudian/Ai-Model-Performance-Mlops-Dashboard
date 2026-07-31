@@ -1,5 +1,7 @@
 # 📊 AI Model Performance Dashboard
-
+<p align="center">
+  <img src="Images/ai model performance dashboard.jpg" width="100%">
+</p>
 Enterprise-grade Power BI dashboard for monitoring AI model performance, operational health, data drift, and MLOps KPIs.
 
 ---
