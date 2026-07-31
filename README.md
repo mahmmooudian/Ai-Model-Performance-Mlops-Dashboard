@@ -107,3 +107,13 @@ AI-Model-Performance-Dashboard/
 3. If required, reconnect the dataset source.
 4. Refresh the data model.
 5. Explore the interactive dashboard.
+## 👨‍💻 Author
+
+**Amir Mahmoudian**
+
+AI Researcher | Machine Learning Engineer | Data Analytics | Power BI
+
+GitHub:
+https://github.com/mahmmooudian
+
+LinkedIn:https://www.linkedin.com/in/amirmohmmadmahmoudian/
