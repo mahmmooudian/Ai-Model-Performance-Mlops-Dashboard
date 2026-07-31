@@ -19,3 +19,14 @@ The dashboard provides interactive insights into model performance, operational 
 - 📋 KPI-driven executive reporting
 - 🔍 Interactive filtering and drill-down analysis
 - ⚡ Built with enterprise Power BI best practices
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| BI Platform | Microsoft Power BI |
+| Data Modeling | Power Query |
+| Data Analysis | DAX |
+| Data Visualization | Power BI Visuals |
+| Data Source | Excel / CSV |
+| Dashboard Design | Interactive Reports |
+| Analytics | KPI Monitoring |
