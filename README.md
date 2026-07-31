@@ -80,3 +80,13 @@ AI-Model-Performance-Dashboard/
 - Model drift monitoring
 - Active alerts
 - System status
+## 🎯 Key KPIs
+
+- Model Accuracy
+- Prediction Confidence
+- Data Drift Score
+- Active Alerts
+- Model Uptime
+- Prediction Volume
+- Failed Predictions
+- Operational Health Score
