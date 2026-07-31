@@ -46,18 +46,18 @@ AI-Model-Performance-Dashboard/
 ```
 ## 📷 Dashboard Preview
 
-### Executive Overview
+### AI Model Performance Dashboard
 
-![Executive Overview](Images/executive-overview.png)
-
----
-
-### Model Performance Details
-
-![Model Performance](Images/model-performance-details.png)
+![AI Model Performance Dashboard](Images/ai-model-performance-dashboard.jpg)
 
 ---
 
-### Operations & Alerts
+### Model Performance
 
-![Operations Alerts](Images/operations-alerts.png)
+![Model Performance](Images/model-performance.jpg)
+
+---
+
+### Operation Alert
+
+![Operation Alert](Images/operation-alert.jpg)
