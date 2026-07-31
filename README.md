@@ -30,3 +30,17 @@ The dashboard provides interactive insights into model performance, operational 
 | Data Source | Excel / CSV |
 | Dashboard Design | Interactive Reports |
 | Analytics | KPI Monitoring |
+## 📁 Project Structure
+
+```
+AI-Model-Performance-Dashboard/
+│
+├── README.md
+├── LICENSE
+├── AI_Model_Performance_Dashboard.pbix
+├── AI_Model_Performance_Dataset.xlsx
+└── Images/
+    ├── executive-overview.png
+    ├── model-performance-details.png
+    └── operations-alerts.png
+```
