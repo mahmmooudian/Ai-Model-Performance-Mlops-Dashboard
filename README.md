@@ -44,3 +44,20 @@ AI-Model-Performance-Dashboard/
     ├── model-performance-details.png
     └── operations-alerts.png
 ```
+## 📷 Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Images/executive-overview.png)
+
+---
+
+### Model Performance Details
+
+![Model Performance](Images/model-performance-details.png)
+
+---
+
+### Operations & Alerts
+
+![Operations Alerts](Images/operations-alerts.png)
